@@ -1,4 +1,4 @@
-## Quantum Computational Scientist
+## Computational Scientist / Data Scientist / ML and AI Engineer
 
 - I am a Computational Scientist in the IBM Quantum team. I develop and test quantum algorithms designed for near-term quantum computers. 
 
