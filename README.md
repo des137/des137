@@ -1,8 +1,8 @@
 ## Computational Scientist / Data Scientist / ML Engineer
 
-- I am a Computational Scientist in the IBM Quantum team. I develop and test quantum algorithms designed for near-term quantum computers. 
+- I am a **Computational Scientist** in the IBM Quantum team. I develop and test quantum algorithms designed for near-term quantum computers. 
 
-- Before my current role as a Computational Scientist, I worked as a Data Scientist and Machine Learning Engineer in leading financial institutions, where I helped deploy machine learning models into production business workflows.
+- Before my current role as a Computational Scientist, I worked as a **Data Scientist** and **Machine Learning Engineer** in leading financial institutions, where I helped deploy machine learning models into production business workflows.
 
 <!--
 **des137/des137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
